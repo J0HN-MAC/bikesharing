@@ -52,7 +52,7 @@ Below are images of visualizations using Tableau.
 ### Bike Repairs
 ![this is an image](Images/6_bike_repairs.png)
 - Each dot represents a bike.
-- The darker and larger dots indicate more usage (number of trips)
+- The darker and larger dots indicate more usage (number of trips).
 
 
 
