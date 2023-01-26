@@ -4,9 +4,9 @@
 This project is to provide analysis of NYC's Citibike data for potential investors in a Des Moines bikesharing startup.
 
 ## Resources
-Data Source: https://s3.amazonaws.com/tripdata/JC-201908-citibike-tripdata.csv.zip
+Data Source: https://s3.amazonaws.com/tripdata/index.html using 201908-citibike-tripdata.csv.zip
 
-Software: Tableau Public v. 022.4.0, Python with Pandas library and Jupyter Notebook, Visual Studio Code
+Software: Tableau Public, Python with Pandas and Jupyter Notebook, Visual Studio Code
 
 [Tableau Story](https://public.tableau.com/app/profile/john.mcmillan1659/viz/BikeSharingStory_16747030793770/BikesharingStory?publish=yes)
 
