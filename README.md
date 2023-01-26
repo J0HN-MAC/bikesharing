@@ -16,32 +16,34 @@ Below are images of visualizations using Tableau
 - Most trips are short, less than 40 minutes
 - almost all less than 40 minutes
 
-### Checkout Times by Gender
+
+#### Checkout Times by Gender
 ![this is an image](Images/2_checkout_times_by_gender.png)
 - 
 - 
 
-### Trips by Weekday per Hour
+
+#### Trips by Weekday per Hour
 ![this is an image](Images/3_trips_by_weekday_per_hr.png)
 
 
-### Trips by Gender (Weekday per Hour)
+#### Trips by Gender (Weekday per Hour)
 ![this is an image](Images/4_trips_by_gender.png)
 
 
-### User Trips by Gender by Weekday
+#### User Trips by Gender by Weekday
 ![this is an image](Images/5_trips_by_gender_per_weekday.png)
 
 
-### Bike Repairs
+#### Bike Repairs
 ![this is an image](Images/6_bike_repairs.png)
 
 
-### Customers vs. Subscribers
+#### Customers vs. Subscribers
 ![this is an image](Images/7_customers_v_subscribers.png)
 
 
-### Gender Breakdown
+#### Gender Breakdown
 ![this is an image](Images/8_gender_breakdown.png)
 
 
